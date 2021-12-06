@@ -6,7 +6,9 @@
 }
 
 html {
-  background: #eaeaea;
+  background: linear-gradient(#83a4d4, #b6fbff);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
 }
 
 /* CLASSES */
@@ -16,8 +18,6 @@ html {
   margin: 2rem auto;
   background: #fff;
   border-radius: 1rem;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
 }
 
 .title {
